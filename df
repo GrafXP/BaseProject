@@ -1,0 +1,23 @@
+[33mcommit f0720e272f79501543a6c2b72c2b880de96cfea6[m
+Author: Chrigumaerki <chrigumaerki@yahoo.de>
+Date:   Thu Jul 9 18:02:14 2015 +0200
+
+    Createt a World map with a simple grass Texture. To use it i created a Plane. Its easyer to scale than sprites. Setup for the scripts in Astar Algorithm.
+
+[33mcommit 404732039bd36fe16fa53ba98d11c5721553c950[m
+Author: GrafXP <m_pletscher@yahoo.de>
+Date:   Wed Jul 8 21:05:35 2015 +0200
+
+    added tons of hqs
+
+[33mcommit b26d0603aec1099ed2a05be170caa97eee9a9708[m
+Author: chrigumerki <chrigumerki@yahoo.de>
+Date:   Wed Jul 8 20:59:13 2015 +0200
+
+    added develop branch and changed main scene
+
+[33mcommit 19ce40dbd375aa627aa8e3731a0f57143e7a51d7[m
+Author: GrafXP <m_pletscher@yahoo.de>
+Date:   Wed Jul 8 20:51:32 2015 +0200
+
+    added base project structure
